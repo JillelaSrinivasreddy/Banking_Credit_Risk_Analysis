@@ -1,5 +1,3 @@
-# Banking_Credit_Risk_Analysis
-
 # Banking Credit Risk Analysis Dashboard
 
 ## Project Overview
