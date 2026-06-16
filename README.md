@@ -24,3 +24,6 @@ This project analyzes customer credit risk using the German Credit dataset. The 
 - SQL Queries (.sql)
 - Dataset (.xlsx)
 - Dashboard Screenshot (.png)
+
+- ##Dashboard Preview
+- ![Dashboard Preview](Dashboard-Screenshot.png.jpeg)
